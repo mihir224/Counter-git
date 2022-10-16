@@ -1,0 +1,29 @@
+body {
+  font: Montserrat;
+  color: #fff;
+  padding: 50px;
+  width: 300px;
+  margin: auto;
+  background-color: gray;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.container {
+  margin: 60% auto;
+}
+
+button {
+  display: inline-block;
+  background-color: dimgray;
+  border-radius: 5px;
+  width: 60px;
+  margin: 10px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 50px;
+}
